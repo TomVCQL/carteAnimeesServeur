@@ -1,0 +1,27 @@
+[05-Mar-2024 14:53:01 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/mahq1168/public_html/demineur/PFETTCV/carteAnimees/controller/connexion.php on line 3) in /home/mahq1168/public_html/demineur/PFETTCV/carteAnimees/config/db_config.php on line 2
+[05-Mar-2024 14:53:01 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/mahq1168/public_html/demineur/PFETTCV/carteAnimees/config/db_config.php:18
+Stack trace:
+#0 /home/mahq1168/public_html/demineur/PFETTCV/carteAnimees/controller/connexion.php(10): include()
+#1 {main}
+  thrown in /home/mahq1168/public_html/demineur/PFETTCV/carteAnimees/config/db_config.php on line 18
+[05-Mar-2024 14:53:07 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/mahq1168/public_html/demineur/PFETTCV/carteAnimees/controller/connexion.php on line 3) in /home/mahq1168/public_html/demineur/PFETTCV/carteAnimees/config/db_config.php on line 2
+[05-Mar-2024 14:53:07 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/mahq1168/public_html/demineur/PFETTCV/carteAnimees/config/db_config.php:18
+Stack trace:
+#0 /home/mahq1168/public_html/demineur/PFETTCV/carteAnimees/controller/connexion.php(10): include()
+#1 {main}
+  thrown in /home/mahq1168/public_html/demineur/PFETTCV/carteAnimees/config/db_config.php on line 18
+[05-Mar-2024 14:53:22 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/mahq1168/public_html/demineur/PFETTCV/carteAnimees/config/db_config.php:18
+Stack trace:
+#0 /home/mahq1168/public_html/demineur/PFETTCV/carteAnimees/controller/connexion.php(10): include()
+#1 {main}
+  thrown in /home/mahq1168/public_html/demineur/PFETTCV/carteAnimees/config/db_config.php on line 18
+[05-Mar-2024 14:53:41 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/mahq1168/public_html/demineur/PFETTCV/carteAnimees/config/db_config.php:18
+Stack trace:
+#0 /home/mahq1168/public_html/demineur/PFETTCV/carteAnimees/controller/connexion.php(10): include()
+#1 {main}
+  thrown in /home/mahq1168/public_html/demineur/PFETTCV/carteAnimees/config/db_config.php on line 18
+[05-Mar-2024 14:53:43 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/mahq1168/public_html/demineur/PFETTCV/carteAnimees/config/db_config.php:18
+Stack trace:
+#0 /home/mahq1168/public_html/demineur/PFETTCV/carteAnimees/controller/connexion.php(10): include()
+#1 {main}
+  thrown in /home/mahq1168/public_html/demineur/PFETTCV/carteAnimees/config/db_config.php on line 18

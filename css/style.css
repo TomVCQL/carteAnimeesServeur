@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('chemin/vers/votre/image.jpg'); /* Remplacez 'chemin/vers/votre/image.jpg' par le chemin de votre image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+nav {
+    background-color: #333; /* Couleur de fond de la barre de navigation */
+    color: #fff; /* Couleur du texte de la barre de navigation */
+    padding: 15px;
+}
+
+nav a {
+    color: #fff; /* Couleur des liens dans la barre de navigation */
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+    margin-left: 50%;
+}
